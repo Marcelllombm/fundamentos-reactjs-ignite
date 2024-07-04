@@ -1,11 +1,11 @@
-
+import './styles.css'
+import {Header} from "./components/Header"
 
 export function App() {
 
-
   return (
     <>
-     hello
+     <Header/>
     </>
   )
 }
